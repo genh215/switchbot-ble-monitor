@@ -9,3 +9,11 @@ A lightweight real-time GUI monitor for SwitchBot BLE temperature, humidity, and
 - No pairing required
 - Direct BLE advertisement scanning
 - Lightweight Tkinter GUI
+
+## Installation
+
+Install the required Python package:
+
+```bash
+pip install bleak
+```
